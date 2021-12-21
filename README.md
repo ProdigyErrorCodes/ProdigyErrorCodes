@@ -8,4 +8,5 @@
 Probbably an anticheat in Prodigy.
 
 ### What is Prodigy Math Game?
-google it.
+A kids math game, which has a massive amount of users and for it's size, a surprising amount of exploits.
+[Prodigy's offcial website](https://www.prodigygame.com/main-en/)
