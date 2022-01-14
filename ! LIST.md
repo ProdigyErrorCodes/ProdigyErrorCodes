@@ -1,7 +1,7 @@
 # 418 List
 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 - Obtaining >10m gold
-- Spawning in OG epic buddies with PHEX.
+- Spawning in OG epic buddies with WCM (PHEX).
 
 # Other error codes
 
@@ -13,6 +13,6 @@
 - Currently unkown, happened to someone when attempting to log into prodigy, even though they have never used hacks.
 
 ## Error code 403
-- Happenes after using `Disbale Inactivity Kick` in PHEX and then being inactive.
+- Happenes after using `Disbale Inactivity Kick` in WCM (PHEX) and then being inactive.
 
 ###### Last Updated January 13, 2021 by [afkvido](https://github.com/afkvido)
