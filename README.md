@@ -1,4 +1,4 @@
-## [List of behaviors that trigger error 418 (and others) in Prodigy Math Game](https://github.com/afkvido/prodigy418/blob/main/!%20LIST.md))
+## [List of behaviors that trigger error 418 (and others) in Prodigy Math Game](https://github.com/afkvido/prodigy418/blob/main/!%20LIST.md)
 
 ### Where is the list?
 
