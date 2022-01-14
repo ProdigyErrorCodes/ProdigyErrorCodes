@@ -7,6 +7,7 @@
 
 ## Error code 20
 - Caused by system clock being offset 2hrs+
+- Caused by using a used login token
 
 ## Error code 48
 - Currently unkown, happened to someone when attempting to log into prodigy, even though they have never used hacks.
