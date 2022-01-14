@@ -1,7 +1,7 @@
 # 418 List
 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 - Obtaining >10m gold
-- Spawning in OG epic buddies with WCM (PHEX).
+- Spawning in OG epic buddies
 
 # Other error codes
 
