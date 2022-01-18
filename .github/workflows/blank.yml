@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Verify
+name: The free checkmark thing
 
 # Controls when the workflow will run
 on:
