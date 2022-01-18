@@ -7,5 +7,5 @@ IF YOU KNOW THE ERROR CODE AND TRIGGER: [Use our discussions tab](https://github
 If you also know exactly how the format should be, and can commit the code/trigger: [Open a pull request](https://github.com/afkvido/prodigyErrCodes/pulls) (you'll also get a cool role "Contributor" if you do)
 
 
-### PLEASE NAME YOUR COMMITS `See ! LIST.md` WHEN PUSHING COMMITS. this keeps the repo clean
+### PLEASE NAME YOUR COMMITS [`See ! LIST.md`](https://github.com/afkvido/prodigyErrCodes/blob/418/!%20LIST.md) WHEN PUSHING COMMITS. this keeps the repo clean
 you can add a description in the more details section
