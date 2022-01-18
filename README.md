@@ -1,8 +1,8 @@
-## [List of behaviors that trigger error 418 (and others) in Prodigy Math Game](https://github.com/afkvido/prodigy418/blob/main/!%20LIST.md)
+## [List of behaviors that trigger error 418 (and others) in Prodigy Math Game](https://github.com/afkvido/prodigy418/blob/errors/!%20LIST.md)
 
 ### Where is the list?
 
-[Right here.](https://github.com/afkvido/prodigy418/blob/main/!%20LIST.md)
+[Right here.](https://github.com/afkvido/prodigy418/blob/errors/!%20LIST.md)
 
 ### What is 418?
 Probably an anticheat in Prodigy. (http 418, "I'm a Teapot")
