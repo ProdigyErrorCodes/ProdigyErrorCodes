@@ -1,7 +1,7 @@
 # 418 List
 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 - Attempting to obtain [> 10M gold](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1)
-- Spawning in OG epic buddies with [WCM](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/willsCheatMenu)/[PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx) or the [prodigy dashboard](https://prodigy-dashboard.hostedposted.com)
+- Spawning in OG epic buddies with [WCM](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/willsCheatMenu)/[PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx) or the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com)
 
 # Other error codes
 
@@ -14,5 +14,9 @@
 
 ## Error code 403
 - Happens after using `Disbale Inactivity Kick` in WCM (PHEX) and then being inactive.
+- Happens when you close the Inactivity Kick popup.
 
-###### _Last Updated January 19, 2021 by [donaldli2020](https://github.com/donaldli2020)_
+## Inactivity kick
+- Happens when you use `Win Battle` in the Arena and open a chest.
+
+###### _Last Updated January 18, 2021 by [donaldli2020](https://github.com/donaldli2020)_
