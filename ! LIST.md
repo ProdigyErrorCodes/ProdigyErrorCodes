@@ -15,4 +15,4 @@
 ## Error code 403
 - Happens after using `Disbale Inactivity Kick` in WCM (PHEX) and then being inactive.
 
-###### Last Updated January 19, 2021 by [donaldli2020](https://github.com/donaldli2020)
+###### _Last Updated January 19, 2021 by [donaldli2020](https://github.com/donaldli2020)_
