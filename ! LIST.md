@@ -6,7 +6,7 @@
 # Other error codes
 
 ## Error code 20
-- Caused by system clock being offset 2 Nhrs+
+- Caused by system clock being offset 2 hrs+
 - Caused by using a used login token
 
 ## Error code 48
@@ -15,4 +15,4 @@
 ## Error code 403
 - Happens after using `Disbale Inactivity Kick` in WCM (PHEX) and then being inactive.
 
-###### Last Updated January 19, 2021 by [afkvido](https://github.com/afkvido)
+###### Last Updated January 19, 2021 by [donaldli2020](https://github.com/donaldli2020)
