@@ -2,7 +2,7 @@
 
 ### Where is the list?
 
-[Right here.](https://github.com/afkvido/prodigy418/blob/errors/!%20LIST.md)
+[Right here.](https://github.com/afkvido/prodigyErrCodes/blob/errors/!%20LIST.md)
 
 ### What is 418?
 Probably an anticheat in Prodigy. (http 418, "I'm a Teapot")
