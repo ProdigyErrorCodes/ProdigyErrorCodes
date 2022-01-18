@@ -6,9 +6,9 @@ name: Verify
 on:
   # Triggers the workflow on push or pull request events but only for the 418 branch
   push:
-    branches: [ "418" ]
+    branches: [ "errors" ]
   pull_request:
-    branches: [ "418" ]
+    branches: [ "errors" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
