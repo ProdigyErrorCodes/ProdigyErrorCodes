@@ -1,5 +1,4 @@
-## How to contribute more 418s
-
+## How to contribute more errors
 
 
 IF YOU KNOW THE ERROR CODE AND TRIGGER: [Use our discussions tab](https://github.com/afkvido/prodigy418/discussions/new?category=new-codes-triggers)
