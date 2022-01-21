@@ -1,5 +1,3 @@
-###### Prodigy Error Codes
-
 # Code 418
 
 HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
