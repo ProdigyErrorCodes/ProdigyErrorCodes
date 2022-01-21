@@ -22,4 +22,12 @@
 ## Error code 36
 - Caused by bad internet connection (can be reproduced without hacks)
 
-###### _Last Updated January 20, 2021 by [donaldli2020](https://github.com/donaldli2020)_
+## Error code 84
+
+- Error loading player spells/skills
+
+## Error code 72
+
+- Caused by an ambiguous error due to hacks, unsure of consistent cause
+
+###### _Last Updated January 20, 2021 by [ArcerionDev](https://github.com/ArcerionDev)_
