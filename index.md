@@ -1,10 +1,10 @@
-<h6 align = "right">Prodigy Error Codes</6>
+<h6 align = "right">Prodigy Error Codes</h6>
 
 <h1 align = "center">Code 418</h1>
 
 HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
-- Attempting to obtain [> 10M gold](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1) and then finishing a battle.
-- Spawning in OG epic buddies with [WCM](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/willsCheatMenu)/[PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx) or the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com).
+- Attempting to obtain <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1">10M gold</a>  and then finishing a battle.
+- Spawning in OG epic buddies with <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/willsCheatMenu">WCM</a>/[PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx) or the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com).
 
 <h1 align = "center">"Inactivity" list</h1>
 - Happens when you use `Win Battle` in the Arena and open a chest.
