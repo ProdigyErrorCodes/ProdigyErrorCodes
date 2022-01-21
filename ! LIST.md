@@ -1,6 +1,6 @@
 # 418 List
 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
-- Attempting to obtain [> 10M gold](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1)
+- Attempting to obtain [> 10M gold](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1) and then finishing a battle
 - Spawning in OG epic buddies with [WCM](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/willsCheatMenu)/[PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx) or the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com)
 
 # Other error codes
