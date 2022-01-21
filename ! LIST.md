@@ -6,6 +6,7 @@ HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 
 # "Inactivity" list
 - Happens when you use `Win Battle` in the Arena and open a chest.
+- Attempting to obtain [> 10M gold](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1) and then finishing a battle.
 - Also happens when you go AFK for a while.
 
 # Other error codes
