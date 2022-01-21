@@ -19,4 +19,7 @@
 ## Inactivity kick
 - Happens when you use `Win Battle` in the Arena and open a chest.
 
-###### _Last Updated January 18, 2021 by [donaldli2020](https://github.com/donaldli2020)_
+## Error code 36
+- Caused by bad internet connection
+
+###### _Last Updated January 20, 2021 by [donaldli2020](https://github.com/donaldli2020)_
