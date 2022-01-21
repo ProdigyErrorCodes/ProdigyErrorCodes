@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 name: Prodigy Error Codes
+title: Prodigy Error Codes
 description: List of behaviors that trigger HTTP errors in Prodigy Math Game
 show_downloads: false
