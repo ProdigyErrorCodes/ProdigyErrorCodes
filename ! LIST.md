@@ -34,5 +34,8 @@ HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 ## Error code 404
 - This used to happen when someone tried to open the HTML Elements or Javascript console (doesn't happen anymore)
 
+## Error code 500
+- Happens when you use the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com) and sign into an account with pending email confirmation.
+
 
 ###### _Last Updated January 21, 2021 by [donaldli2020](https://github.com/donaldli2020)_
