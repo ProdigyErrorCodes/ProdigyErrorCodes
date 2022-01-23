@@ -5,7 +5,7 @@
 [https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/tree/errors/!%20LIST.md](https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/tree/errors/!%20LIST.md)
 
 ## What is Prodigy Math Game?
-A kids' math game, which has a massive amount of users, and for it's size, a surprising amount of exploits. [Prodigy's offcial website](https://www.prodigygame.com/main-en/)
+A kids' math game, which has a massive amount of exploits for it's size. [Prodigy's offcial website](https://www.prodigygame.com/main-en/)
 
 ______
-###### _[This repository supports PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)_
+<h6 align = "center"><i> <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">This repository supports PMGH</a></i></h6>
