@@ -1,4 +1,4 @@
-name: Welcome to prodigyErrCodes
+name: Welcome to ProdigyErrorCodes
 
 on: [pull_request, issues]
 
@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Thanks for submitting your issue to prodigyErrCodes!'
-        pr-message: 'Thanks for submitting your pull request to prodigyErrCodes!'
+        issue-message: 'Thanks for submitting your issue to ProdigyErrorCodes!'
+        pr-message: 'Thanks for submitting your pull request to ProdigyErrorCodes!'
