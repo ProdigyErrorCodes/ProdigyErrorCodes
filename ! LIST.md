@@ -5,6 +5,8 @@ HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 - Spawning in OG epic buddies with [WCM](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/willsCheatMenu)/[PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx) or the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com).
 
 # "Inactivity" list
+
+The Inactivity Kick is sometimes used as an anticheat to prevent people from cheating.
 - Happens when you use `Win Battle` in the Arena and open a chest.
 - Attempting to obtain [> 10M gold](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1) and then finishing a battle.
 - Signing in to two accounts without incognito; another profile, browser, computer, etc.
@@ -40,4 +42,4 @@ HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 - [How to fix this error](https://gist.github.com/afkvido/427547dc6fd9ae860cd962a5be520059)
 
 
-###### _Last Updated January 22, 2022 by [afkvido](https://github.com/afkvido)_
+###### _Last Updated January 23, 2022 by [donaldli2020](https://github.com/donaldli2020)_
