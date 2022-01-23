@@ -40,4 +40,4 @@ HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 - [How to fix this error](https://gist.github.com/afkvido/427547dc6fd9ae860cd962a5be520059)
 
 
-###### _Last Updated January 22, 2021 by [afkvido](https://github.com/afkvido)_
+###### _Last Updated January 22, 2022 by [afkvido](https://github.com/afkvido)_
