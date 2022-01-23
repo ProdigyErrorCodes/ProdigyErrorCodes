@@ -3,12 +3,14 @@
 <h1 align = "center">Code 418</h1>
 
 HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
-- Attempting to obtain <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1">10M gold</a>  and then finishing a battle.
+- Attempting to obtain <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1">> 10M gold</a>  and then finishing a battle.
 - Spawning in OG epic buddies with <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/willsCheatMenu">WCM</a>/[PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx) or the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com).
 
 <h1 align = "center">"Inactivity" list</h1>
 
 - Happens when you use `Win Battle` in the Arena and open a chest.
+- Attempting to obtain <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/commit/08e3866c92b4e158d97369784461a698383e2ce1">> 10M gold<a> and then finishing a battle.
+- Signing in to two accounts without incognito; another profile, browser, computer, etc.
 - Also happens when you go AFK for a while.
 
 <h1 align = "center">Other error codes</h1>
@@ -43,5 +45,10 @@ HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 
 - This used to happen when someone tried to open the HTML Elements or Javascript console (doesn't happen anymore)
 
+<h2 align = "left">Error code 500</h2>
+
+- Happens when you use the <a href = "https://prodigy-dashboard.hostedposted.com/">Prodigy Dashboard<a> and sign into an account with pending email confirmation.
+- <a href = "https://gist.github.com/afkvido/427547dc6fd9ae860cd962a5be520059">How to fix this error</a>
+  
 
 <h5 align = "center"> <i> <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">This repository supports PMGH</a> </i> </h5>
