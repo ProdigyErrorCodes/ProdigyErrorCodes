@@ -1,10 +1,9 @@
 ## How to contribute more errors
 
 
-IF YOU KNOW THE ERROR CODE AND TRIGGER: [Use our discussions tab](https://github.com/afkvido/prodigy418/discussions/new?category=new-codes-triggers)
-
-If you also know exactly how the format should be and can commit the code/trigger: [Open a pull request](https://github.com/afkvido/prodigyErrCodes/pulls). (You'll also get the cool role "Contributor" if you do).
-
-
-### PLEASE NAME YOUR COMMITS [`See ! LIST.md`](https://github.com/afkvido/prodigyErrCodes/blob/errors/!%20LIST.md) WHEN PUSHING COMMITS. This keeps the repo clean.
-You can add a description in the more details section.
+If you know the error code and trigger:
+- [Use our discussions tab](https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/discussions/categories/new-codes-triggers)
+-------
+If you know the error code and trigger, and you also know exactly how to format your addition:
+- [Open a pull request](https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/pulls).
+- PLEASE NAME YOUR COMMITS `See ! LIST.md` WHEN PUSHING COMMITS. This keeps the repo clean. (You can add a description in the more details section).
