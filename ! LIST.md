@@ -37,6 +37,7 @@ HTTP 418 is an anticheat to prevent people using hacks to spawn in unusual loot.
 
 ## Error code 500
 - Happens when you use the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com) and sign into an account with pending email confirmation.
+- [How to fix this error](https://gist.github.com/afkvido/427547dc6fd9ae860cd962a5be520059)
 
 
-###### _Last Updated January 22, 2021 by [donaldli2020](https://github.com/donaldli2020)_
+###### _Last Updated January 22, 2021 by [afkvido](https://github.com/afkvido)_
