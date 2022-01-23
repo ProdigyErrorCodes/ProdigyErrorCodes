@@ -1,4 +1,4 @@
-prodigyErrCodes is licensed under the Mozilla Public License Version 2.0
+ProdigyErrorCodes is licensed under the Mozilla Public License Version 2.0
 ==================================
 
 1. Definitions
