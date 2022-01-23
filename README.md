@@ -1,1 +1,1 @@
-# [https://afkvido.github.io/prodigyErrCodes](https://afkvido.github.io/prodigyErrCodes/)
+# [https://prodigyerrorcodes.github.io/ProdigyErrorCodes](https://prodigyerrorcodes.github.io/ProdigyErrorCodes/)
