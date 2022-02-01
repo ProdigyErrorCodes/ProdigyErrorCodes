@@ -17,7 +17,14 @@ ______
   
   <a href = "https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/graphs/contributors">
 <img alt="Contributors" src="https://img.shields.io/github/contributors/ProdigyErrorCodes/ProdigyErrCodes?color=blue&label=Contributors&logo=GitHub&logoColor=white&style=for-the-badge">
-</a>
+</a>⠀
   
+  <a href = "https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/ProdigyErrorCodes/ProdigyErrCodes?color=yellow&label=STARS&logo=GitHub&logoColor=white&style=for-the-badge">
+  </a>⠀
+  
+<a href = "https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/commits">  
+  <img alt="Commits" src="https://img.shields.io/github/commit-activity/y/ProdigyErrorCodes/ProdigyErrCodes?color=purple&label=commits&logo=Git&logoColor=white&style=for-the-badge">
+</a>
   
 </h5>
