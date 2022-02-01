@@ -16,7 +16,7 @@ ______
   
   
   <a href = "https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/ProdigyErrorCodes/ProdigyErrCodes?color=blue&label=Contributors&logo=GitHub&logoColor=white&style=for-the-badge">
+<img alt="Contributors" src="https://img.shields.io/github/contributors/ProdigyErrorCodes/ProdigyErrCodes?color=blue&label=Contributors&logo=CircleCI&logoColor=white&style=for-the-badge">
 </a>⠀
   
   <a href = "https://github.com/ProdigyErrorCodes/ProdigyErrorCodes/stargazers">
