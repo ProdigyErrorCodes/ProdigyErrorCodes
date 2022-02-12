@@ -25,7 +25,8 @@ The Inactivity Kick is sometimes used as an anticheat to prevent people from che
 - Currently unkown, happened to someone when attempting to log into Prodigy, even though they have never used hacks.
 
 ## Error code 72
-- Caused by an ambiguous error due to hacks, unsure of consistent cause.
+- Caused by an ambiguous error due to hacks, usually in console, unsure of consistent cause.
+- Confirmed example: Running `_.player.backpack.data.hat = [null];`, character save, and logging back in.
 
 ## Error code 84
 - `Error loading player spells/skills.`
@@ -42,4 +43,4 @@ The Inactivity Kick is sometimes used as an anticheat to prevent people from che
 - [How to fix this error](https://gist.github.com/afkvido/427547dc6fd9ae860cd962a5be520059)
 
 
-###### _Last Updated January 23, 2022 by [donaldli2020](https://github.com/donaldli2020)_
+###### _Last Updated Februara 12, 2022 by [donaldli2020](https://github.com/donaldli2020)_
