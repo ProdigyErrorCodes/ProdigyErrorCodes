@@ -7,9 +7,6 @@
 ## What is Prodigy Math Game?
 A kids' math game, which has a massive amount of exploits for it's size. [Prodigy's offcial website](https://www.prodigygame.com/main-en/)
 
-
-<h6 align = "center"><i> <a href = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">This repository supports PMGH</a></i></h6>
-
 ______
 
 <h5 align = "center">
