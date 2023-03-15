@@ -41,7 +41,7 @@ The Inactivity Kick is sometimes used as an anticheat to prevent people from che
 
 ## Error code 500
 - Happens when you use the [Prodigy Dashboard](https://prodigy-dashboard.hostedposted.com) and sign into an account with pending email confirmation.
-- [How to fix this error](https://gist.github.com/afkvido/427547dc6fd9ae860cd962a5be520059)
+- I don't know how to fix this error.
 
 
-###### _Last Updated February 12, 2022 by [donaldli2020](https://github.com/donaldli2020)_
+###### _Last Updated February 12, 2022 by [40287#28](https://github.com/donaldli2020)_
